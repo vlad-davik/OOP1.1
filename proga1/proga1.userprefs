@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="proga1/MyClass.cs" Line="3" Column="2" />
+      <File FileName="proga1/Interfaces/IStack.cs" Line="6" Column="40" />
+      <File FileName="proga1/Exceptions/StackException.cs" Line="31" Column="1" />
+      <File FileName="proga1/MyStack/ArrayStack.cs" Line="5" Column="28" />
+      <File FileName="proga1/MyStack/LinkedStack.cs" Line="65" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
